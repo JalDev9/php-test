@@ -8,8 +8,8 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
-   cd <project_directory>
+   git clone https://github.com/JalDev9/php-test.git
+   cd php-test
 
 2. **Environment Configuration**
     ```bash
