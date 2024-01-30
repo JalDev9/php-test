@@ -9,7 +9,7 @@
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/JalDev9/php-test.git
-   cd <project_directory>
+   cd php-test
 
 2. **Environment Configuration**
     ```bash
