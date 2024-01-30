@@ -15,19 +15,19 @@
     ```bash
     cp .env.example .env
 
-2. **Import Subscriber table schema**
+3. **Import Subscriber table schema**
 
     Go to DB folder and import **subscribers.sql** to your database.
 
-3. **Install Dependencies**
+4. **Install Dependencies**
     ```bash
     composer install
 
-4. **Start the PHP Server**
+5. **Start the PHP Server**
     ```bash
     php -S localhost:8000
 
-5. **Access the Application**
+6. **Access the Application**
 
     Open your web browser and navigate to http://localhost:8000 to access the local instance of your PHP application.
     
