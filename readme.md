@@ -15,6 +15,10 @@
     ```bash
     cp .env.example .env
 
+2. **Import Subscriber table schema**
+
+    Go to DB folder and import **subscribers.sql** to your database.
+
 3. **Install Dependencies**
     ```bash
     composer install
